@@ -8,3 +8,5 @@ Para executar baixe o arquivo e torne-o executável com chmod +x nomedoarquivo. 
 2. parametros: script exemplo para passagem de parâmetros. Use parametros opção1 opção2 opção3
 
 3. INTcount: script de 1 linha para monitoramento de interrupções.
+
+Veja também o script "memory-hierarchy" no outro repositório que serve como um exemplo de script avançado manipulando variáveis e texto.
