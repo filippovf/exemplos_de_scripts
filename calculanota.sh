@@ -1,5 +1,6 @@
 #!/bin/bash
 #Script exemplo para um cálculo de média (ponderada) de notas
+#Elaborado por Prof. Filippo Valiante Filho - https://prof.valiante.info
 #versão 0.1 - sem tempo para montar IFs para validação de valores e aprovações...
 clear
 echo -e "\n🖖🏼!\n"
