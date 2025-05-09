@@ -22,7 +22,11 @@ Scripts mais básicos na ordem sugerida para execução e estudo:
 
 5. **exemploifmenu**: menu mais elaborado incorporando um laço com while para que o script continue repetindo, além de uma opção para sair do script.
 
-6. **calculanota**: script que pergunta as notas para o usuário e calcula uma média ponderada. Exemplo de script interativo com cálculos usando bc.  
+6. **calculanota**: script que pergunta as notas para o usuário e calcula uma média ponderada. Exemplo de script interativo com cálculos usando bc.
+
+7. **fatorial_for**: exemplo de uso de um laço for para o cálculo do fatorial de um número.
+
+8. **fatorial_while**: exemplo de uso de um laço while para o cálculo do fatorial de um número.
 
     
 Scripts mais elaborados utilizando laços e estrutura decisória e com "jeito de aplicação feita em linguagem de propósito geral":
