@@ -1,4 +1,5 @@
 #!/bin/bash
+#Elaborado por Prof. Filippo Valiante Filho - https://prof.valiante.info
 
 echo -e "\nExemplo de script de menu..."
 

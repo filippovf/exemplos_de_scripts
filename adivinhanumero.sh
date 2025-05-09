@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script de um jogo de adivinhação de números
-#Elaborado por Prof. Filippo Valiante Filho
+#Elaborado por Prof. Filippo Valiante Filho - https://prof.valiante.info
 #Versão 1 - Abril de 2025
 clear
 numero=$RANDOM  # Gera um número aleatório de 0 a 32767.
